@@ -12,13 +12,7 @@ Bitcoin (精通比特幣)
 
  b.建立GCP上的虛擬機  https://youtu.be/oAqH3NzXP7I
 
-
-3. 延續8/19日的實作四-200行程式碼的迷你區塊鏈 
-
-實作-如何將兩個原本獨立的迷你區塊鏈連結成一個聯盟鏈<br>   
-https://youtu.be/BHlkT6-52QI 
-<br>
-4. 2017/08/20 實作一：教學影片:<br>
+3. 2017/12/17 實作一：教學影片:<br>
 hyperledgerFabric-v0.6-01-IBM Bluemix上的Fabric試用範例. https://youtu.be/GFMOXGU1Ns0
 <br>
 hyperledgerFabric-v0.6-02-共識系統的觀念解說 (20:06) https://youtu.be/yl9Hagy2oO8
@@ -29,12 +23,12 @@ https://youtu.be/NPT44pSHrw8
 hyperledgerFabric-v0.6-04-實作演練:利用腳本程序把四個節點的區塊鏈運行起來-02 (15:14) 
 https://youtu.be/g461_a63WP0
 <br>
-5.  實作從原始碼編譯出一個完整的公有鏈<br>
+4.  實作從原始碼編譯出一個完整的公有鏈<br>
 在GCP上的UbuntuVM編譯Bitcoin Core的原始碼-01 (14:34) https://youtu.be/ECsRHMjG1mY <br>
 在GCP上的UbuntuVM編譯Bitcoin Core的原始碼-02 (6:25) https://youtu.be/wpW7bEKfPj0  <br>
 在GCP上的UbuntuVM編譯Bitcoin Core的原始碼-03 (6:02) https://youtu.be/nod55SIVMfA  <br>
 <br>
-將虛擬機的Ubuntu server升級成Ubuntu Desktop版本-01 (5:54) https://youtu.be/pHeRXlknw_0 <br>
+5. 將虛擬機的Ubuntu server升級成Ubuntu Desktop版本-01 (5:54) https://youtu.be/pHeRXlknw_0 <br>
 將虛擬機的Ubuntu server升級成Ubuntu Desktop版本-02-安裝vncserver與修改vncserver參數(11:44) 
 https://youtu.be/7K6q5ZdC5Nw  <br>
 將虛擬機的Ubuntu server升級成Ubuntu Desktop版本-03-GCP的防火牆設定與利用vncviewer連線到VM  (9:35)   
