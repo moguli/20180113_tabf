@@ -1,4 +1,4 @@
-# 20171217區塊鏈技術從理論到實作 進階班  盧老師教學用線上黑板
+# 20180113 區塊鏈技術從理論到實作 進階班  盧老師教學用線上黑板
 
 1.盧老師附贈一本 盧老師在大學開授「虛擬貨幣與區塊鏈技術」的上課指定教科書：Mastering 
 Bitcoin (精通比特幣)
@@ -12,7 +12,13 @@ Bitcoin (精通比特幣)
 
  b.建立GCP上的虛擬機  https://youtu.be/oAqH3NzXP7I
 
-3. 2017/12/17 實作一：教學影片:<br>
+3. 盧老師 200行程式的迷你區塊鏈 操作示範影片<br>
+    https://youtu.be/-RDmd-sqZ5Y
+
+    <br>實作 盧老師示範在本機端的VirtualBox上部署三個節點的迷你區塊鏈<br>
+    https://youtu.be/JWGVMJdGUkY
+
+4. 2018/1/13 實作四：教學影片:<br>
 hyperledgerFabric-v0.6-01-IBM Bluemix上的Fabric試用範例. https://youtu.be/GFMOXGU1Ns0
 <br>
 hyperledgerFabric-v0.6-02-共識系統的觀念解說 (20:06) https://youtu.be/yl9Hagy2oO8
